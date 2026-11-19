@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iberaa</h1>
-<h3 align="center">Frontend Developer & Network Engineering Student</h3>
+<h3 align="center">Frontend Junior Developer & Network Engineering Student</h3>
 
 - 🔭 I’m currently working on **Company Profile & Web Applications**
 
